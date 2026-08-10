@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20Khushi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent,%20assistive%20%26%20agentic%20systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=B.Tech+in+Information+Technology+%40+GTBIT;Research+Intern+%40+India+Space+Lab;Building+SAFIR+%2F+AGNI+%2F+V2T-Graph;Open+Source+Contributor+%40+kornia-rs;RL+%2B+RAG+%2B+Multi-Agent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=B.Tech+in+Information+Technology;Building+SAFIR+%2F+AGNI+%2F+V2T-Graph;Open+Source+Contributor+%40+kornia-rs;RL+%2B+RAG+%2B+Multi-Agent+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,8 +24,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in **Information Technology**, GTBIT (GGSIPU), New Delhi — CGPA **8.75/10**
-- 🛰️ Research Intern @ **India Space Lab** — drone/boat control, FEM/CFD, ML surrogates, disaster-response forecasting
+- 🎓 B.Tech in **Information Technology**, New Delhi — CGPA **8.75/10**
 - 🧠 Working on **agentic AI**: multi-agent RAG pipelines, confidence-gated RL, and adaptive routing
 - 🦀 Open-source contributor @ **kornia-rs** (Rust computer vision) & **IEEE Summer of Code**
 - 📄 Published on SSRN: **CGAR** — confidence-gated RL for API gateway routing (81.6–91.9% regret reduction)
@@ -147,7 +146,7 @@ ML surrogate model for rocket fin design optimization & factor-of-safety classif
 |---|---|
 | 🥇 | **Rank 1 (Perfect 100 Score)** — ICTRD Data Science Program (2025) |
 | 📜 | **ICTRD Certified Data Science Associate** (2025) |
-| 🎨 | **Ctrl+Alt+Design Winner** — IEEE DTU & IEEE GTBIT (2025) |
+| 🎨 | **Ctrl+Alt+Design Winner** — IEEE DTU (2025) |
 
 <br/>
 
