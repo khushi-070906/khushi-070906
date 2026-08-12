@@ -22,10 +22,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khushi-070906&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-070906&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-070906&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushi-070906&theme=tokyo-night&hide_border=true" width="90%"/>
 
