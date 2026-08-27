@@ -115,6 +115,18 @@ Confidence-gated multi-agent forecasting + RAG pipeline for heatwave disaster pr
   <img src="https://ghchart.rshah.org/6C63FF/khushi-070906" alt="Khushi's GitHub contribution graph" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khushi-070906&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi-070906&theme=tokyonight" alt="Language pie chart" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushi-070906&theme=tokyonight" alt="Contributions line graph and stats" />
+</p>
+
 ---
 
 ### 🏆 Achievements
