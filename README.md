@@ -2,7 +2,7 @@
 <h3 align="center">Building ML systems, robotics simulations, and agentic AI pipelines</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+GTBIT;Research+Intern+%40+India+Space+Lab;Open-Source+Contributor+%40+kornia-rs;RL+%2B+Multi-Agent+Systems+%2B+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+GTBIT;Open-Source+Contributor+%40+kornia-rs;Published+Author+on+SSRN;RL+%2B+Multi-Agent+Systems+%2B+Computer+Vision" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -96,12 +96,15 @@ Confidence-gated multi-agent forecasting + RAG pipeline for heatwave disaster pr
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi-070906&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-070906&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+| | |
+|---|---|
+| 🎓 **CGPA** | 8.75/10 |
+| 📄 **Publications** | 1 (SSRN) |
+| 🧩 **Open Source** | kornia-rs, IEEE SoC |
+| 🏆 **Wins** | Ctrl+Alt+Design (IEEE DTU & GTBIT) |
+| 📜 **Certifications** | ICTRD Data Science Associate |
 
 ---
 
