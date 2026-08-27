@@ -111,6 +111,10 @@ Confidence-gated multi-agent forecasting + RAG pipeline for heatwave disaster pr
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6C63FF&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/khushi-070906&logo=github" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/6C63FF/khushi-070906" alt="Khushi's GitHub contribution graph" />
+</p>
+
 ---
 
 ### 🏆 Achievements
