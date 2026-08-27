@@ -106,6 +106,11 @@ Confidence-gated multi-agent forecasting + RAG pipeline for heatwave disaster pr
 | 🏆 **Wins** | Ctrl+Alt+Design (IEEE DTU & GTBIT) |
 | 📜 **Certifications** | ICTRD Data Science Associate |
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/khushi-070906?style=for-the-badge&color=6C63FF&label=Followers&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6C63FF&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/khushi-070906&logo=github" />
+</p>
+
 ---
 
 ### 🏆 Achievements
