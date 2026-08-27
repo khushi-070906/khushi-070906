@@ -25,10 +25,9 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Information Technology, **GTBIT (GGSIPU)**, New Delhi — CGPA **8.75/10**
-- 🛰️ Research Intern, Remote Sensing & GIS at **India Space Lab** — PID/path-following control, FEM/CFD-backed ML surrogates, and multi-agent disaster forecasting
 - 🧩 Open-source contributor to **kornia-rs** and **IEEE Summer of Code**
 - 📄 Published author on SSRN — confidence-gated RL for API gateway routing
-- 🌱 Currently exploring deeper agentic AI systems, RL for infrastructure, and accessible assistive tech
+- 🌱 Currently exploring agentic AI systems, RL for infrastructure, and accessible assistive tech
 - 💬 Ask me about: reinforcement learning, multi-agent pipelines, computer vision, or robotics control
 
 ---
@@ -100,16 +99,8 @@ Confidence-gated multi-agent forecasting + RAG pipeline for heatwave disaster pr
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi-070906&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi-070906&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-070906&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-070906&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushi-070906&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
