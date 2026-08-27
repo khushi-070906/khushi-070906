@@ -107,24 +107,7 @@ Confidence-gated multi-agent forecasting + RAG pipeline for heatwave disaster pr
 | 📜 **Certifications** | ICTRD Data Science Associate |
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/khushi-070906?style=for-the-badge&color=6C63FF&label=Followers&logo=github" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6C63FF&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/khushi-070906&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/6C63FF/khushi-070906" alt="Khushi's GitHub contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=khushi-070906&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi-070906&theme=tokyonight" alt="Language pie chart" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushi-070906&theme=tokyonight" alt="Contributions line graph and stats" />
+  <img src="./github-contribution-grid-snake.svg" alt="Khushi's contribution activity graph" />
 </p>
 
 ---
