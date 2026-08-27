@@ -107,7 +107,7 @@ Confidence-gated multi-agent forecasting + RAG pipeline for heatwave disaster pr
 | 📜 **Certifications** | ICTRD Data Science Associate |
 
 <p align="center">
-  <img src="./github-contribution-grid-snake.svg" alt="Khushi's contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushi-070906&theme=tokyo-night" alt="Khushi's activity graph" />
 </p>
 
 ---
