@@ -89,9 +89,6 @@ flowchart LR
 
 <br/>
 
-<div align="center">
-  <img width="100%" alt="contribution graph" src="https://ghchart.rshah.org/26a641/khushi-070906" />
-</div>
 
 <br/>
 
