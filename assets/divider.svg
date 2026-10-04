@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 16" width="100%">
-<line x1="0" y1="8" x2="800" y2="8" stroke="#A3E635" stroke-width="2" stroke-dasharray="8 8" opacity=".5"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.2s" repeatCount="indefinite"/></line>
-<rect y="3" width="40" height="10" fill="#22D3EE"><animate attributeName="x" values="-40;800" dur="2.4s" repeatCount="indefinite"/></rect>
-<rect y="3" width="16" height="10" fill="#FB923C"><animate attributeName="x" values="800;-16" dur="3.1s" repeatCount="indefinite"/></rect>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 12" width="100%"><line x1="0" y1="6" x2="800" y2="6" stroke="#0B3D17" stroke-width="2"/><rect x="0" y="2" width="28" height="8" fill="#00FF41"/></svg>
