@@ -2,14 +2,14 @@
 
 <div align="center">
   <a href="https://github.com/khushi-070906">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=800&height=40&lines=I+build+AI+that+helps+people.;Computer+Vision+%7C+RAG+%7C+Agentic+AI;Published+researcher+in+RL;Open-source+contributor+to+kornia-rs;Accepted%3A+Sarvam+%7C+GitLab+%7C+MongoDB" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=0E9AA7&center=true&vCenter=true&width=800&height=40&lines=I+build+AI+that+helps+people.;Computer+Vision+%7C+RAG+%7C+Agentic+AI;Published+researcher+in+RL;Built+the+backend+for+RAVS;Open-source+contributor+to+kornia-rs;Accepted%3A+Sarvam+%7C+GitLab+%7C+MongoDB" alt="typing" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khushi-mittal-7294a2334"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" /></a>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7206758"><img src="https://img.shields.io/badge/SSRN-Published-8B5CF6?style=for-the-badge&labelColor=161b22" /></a>
-  <a href="mailto:khushimittal070906@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" /></a>
+  <a href="https://www.linkedin.com/in/khushi-mittal-7294a2334"><img src="https://img.shields.io/badge/LinkedIn-Connect-0E9AA7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B3C49" /></a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7206758"><img src="https://img.shields.io/badge/SSRN-Published-F2705E?style=for-the-badge&labelColor=0B3C49" /></a>
+  <a href="mailto:khushimittal070906@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0E9AA7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B3C49" /></a>
 </p>
 
 <img src="assets/ticker.svg" width="100%" alt="" />
@@ -27,7 +27,7 @@
 ### 🧭 The whole map
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#4A00E0','primaryTextColor':'#ffffff','primaryBorderColor':'#8B5CF6','lineColor':'#C084FC','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#CFF3EE','primaryTextColor':'#0B3C49','primaryBorderColor':'#0E9AA7','lineColor':'#0E9AA7','secondaryColor':'#FFE8C2','tertiaryColor':'#FFF6E5','fontFamily':'monospace'}}}%%
 flowchart TB
     K(("Khushi<br/>Mittal")):::core
     K --> R["Research"]
@@ -36,22 +36,53 @@ flowchart TB
     K --> I["Internships"]
     R --> R1["CGAR - SSRN"]
     P --> P1["DwaniLive"]
-    P --> P2["MLflow Drift Plugin"]
-    P --> P3["EV Theft Detection"]
+    P --> P2["RAVS backend"]
     O --> O1["kornia-rs"]
     I --> I1["Zipbolt Innovations"]
     I --> I2["AICTE"]
-    I1 -.-> P3
-    classDef core fill:#8B5CF6,stroke:#C084FC,color:#fff,stroke-width:3px
-    classDef leaf fill:#2563EB,stroke:#60A5FA,color:#fff
-    class R1,P1,P2,P3,O1,I1,I2 leaf
+    classDef core fill:#FFB4A8,stroke:#F2705E,color:#0B3C49,stroke-width:3px
+    classDef leaf fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
+    class R1,P1,P2,O1,I1,I2 leaf
+```
+
+### 🎓 RAVS (Research Connect): I built the backend
+A role-based **research attendance and verification** app. Students authenticate, check in and out of lab sessions and submit work evidence. Faculty review those sessions before approved hours count toward attendance reports. Admins manage users and lab configuration. Also covers presence checks, events, leave, certificates and a live roster. **Supabase** provides auth, database and storage.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#CFF3EE','primaryTextColor':'#0B3C49','primaryBorderColor':'#0E9AA7','lineColor':'#0E9AA7','secondaryColor':'#FFE8C2','tertiaryColor':'#FFF6E5','fontFamily':'monospace'}}}%%
+flowchart TB
+    subgraph STU["Student"]
+        direction LR
+        s1["Sign in"] --> s2["Check in<br/>with lab code"] --> s3["Presence checks"] --> s4["Log work evidence<br/>+ session timer"] --> s5["Check out"]
+    end
+    subgraph FAC["Faculty"]
+        direction LR
+        f1["Review sessions<br/>+ time corrections"] --> f2["Approve hours"] --> f3["Attendance reports<br/>+ research summaries"]
+    end
+    subgraph OPS["Lab operations"]
+        direction LR
+        o1["Live roster"]
+        o2["Events + calendar"]
+        o3["Leave requests"]
+        o4["Certificates +<br/>verification codes"]
+    end
+    subgraph ADM["Head admin"]
+        a1["Manage users + labs"]
+    end
+    STU --> DB
+    FAC --> DB
+    OPS --> DB
+    ADM --> DB
+    DB[("Supabase<br/>auth + database + storage")]
+    style DB fill:#FFB4A8,stroke:#F2705E,color:#0B3C49,stroke-width:2px
+    style f2 fill:#FFE8C2,stroke:#F2705E,color:#0B3C49
 ```
 
 ### 🗣️ DwaniLive: offline live translation + accessible captions
 Runs on the presenter's device with **zero internet dependency**. Accepted into the **Sarvam**, **GitLab** and **MongoDB** Startup Programs.
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#4A00E0','primaryTextColor':'#ffffff','primaryBorderColor':'#8B5CF6','lineColor':'#C084FC','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#CFF3EE','primaryTextColor':'#0B3C49','primaryBorderColor':'#0E9AA7','lineColor':'#0E9AA7','secondaryColor':'#FFE8C2','tertiaryColor':'#FFF6E5','fontFamily':'monospace'}}}%%
 flowchart LR
     A(["Presenter speaks"]) --> B["faster-whisper<br/>speech to text"]
     B --> C["NLLB-200<br/>translation"]
@@ -60,39 +91,8 @@ flowchart LR
     D --> E{{"Self-hosted WiFi hotspot<br/>no internet needed"}}
     E --> F["High-contrast live captions<br/>deaf / hard-of-hearing"]
     E --> G["Live spoken translation<br/>blind / visually impaired"]
-    style A fill:#8B5CF6,stroke:#C084FC,color:#fff
-    style E fill:#2563EB,stroke:#60A5FA,color:#fff
-```
-
-### 📉 MLflow Drift Plugin: compliance-mapped drift detection
-**31 passing tests.** Maps drift to RBI's draft 2026 Model Risk guidance and DPDP Act Sec. 8(3)-(4), which US tools like Arize and Evidently don't do.
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#4A00E0','primaryTextColor':'#ffffff','primaryBorderColor':'#8B5CF6','lineColor':'#C084FC','fontFamily':'monospace'}}}%%
-flowchart LR
-    A["Model + feature data"] --> C["detector"]
-    B["baseline"] --> C
-    G["config"] --> C
-    C --> D["Airflow / MLflow hooks"]
-    D --> E["reporting"]
-    C --> F{{"Compliance layer"}}
-    F --> H["RBI draft 2026<br/>Model Risk guidance"]
-    F --> I["DPDP Act<br/>Sec. 8(3)-(4)"]
-    F --> E
-    style F fill:#8B5CF6,stroke:#C084FC,color:#fff
-```
-
-### 🚗 EV Theft Detection: Raspberry Pi security
-Built during my research internship at Zipbolt Innovations.
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#4A00E0','primaryTextColor':'#ffffff','primaryBorderColor':'#8B5CF6','lineColor':'#C084FC','fontFamily':'monospace'}}}%%
-flowchart LR
-    A["Onboard sensors"] -->|"unauthorized movement<br/>or tampering"| B["Raspberry Pi"]
-    B --> C["Camera"]
-    C --> D[("Recorded theft attempt")]
-    style B fill:#8B5CF6,stroke:#C084FC,color:#fff
-    style D fill:#2563EB,stroke:#60A5FA,color:#fff
+    style A fill:#FFB4A8,stroke:#F2705E,color:#0B3C49
+    style E fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -102,15 +102,15 @@ flowchart LR
 **CGAR: Confidence-Gated Adaptive Routing for RL-Based API Gateways** · [📄 SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7206758)
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#4A00E0','primaryTextColor':'#ffffff','primaryBorderColor':'#8B5CF6','lineColor':'#C084FC','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#CFF3EE','primaryTextColor':'#0B3C49','primaryBorderColor':'#0E9AA7','lineColor':'#0E9AA7','secondaryColor':'#FFE8C2','tertiaryColor':'#FFF6E5','fontFamily':'monospace'}}}%%
 flowchart LR
     A["API requests"] --> B["Gateway routing<br/>under autoscaling"]
     B --> C["Non-stationary<br/>per-arm warm-start bandit"]
     C --> D{{"Confidence gate<br/>(CGAR)"}}
     D --> E["Routing decision"]
     E --> F["81.6 to 91.9% regret reduction<br/>7 baselines, 20 seeds"]
-    style D fill:#8B5CF6,stroke:#C084FC,color:#fff
-    style F fill:#2563EB,stroke:#60A5FA,color:#fff
+    style D fill:#FFB4A8,stroke:#F2705E,color:#0B3C49
+    style F fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -120,16 +120,16 @@ flowchart LR
 **[kornia-rs](https://github.com/kornia/kornia-rs)**: computer vision in Rust, with Python bindings
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#4A00E0','primaryTextColor':'#ffffff','primaryBorderColor':'#8B5CF6','lineColor':'#C084FC','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#CFF3EE','primaryTextColor':'#0B3C49','primaryBorderColor':'#0E9AA7','lineColor':'#0E9AA7','secondaryColor':'#FFE8C2','tertiaryColor':'#FFF6E5','fontFamily':'monospace'}}}%%
 flowchart LR
     K(("kornia-rs")):::core
     K --> A["Doctest discovery gap<br/>docstrings silently skipped"] --> A2["Fixed: recursive<br/>test collection"]
     K --> B["Aliasing UB in<br/>fused ColorJitter path"] --> B2["Resolved"]
     K --> C["Panics on<br/>malformed inputs"] --> C2["Proper Python<br/>exceptions"]
-    classDef core fill:#8B5CF6,stroke:#C084FC,color:#fff,stroke-width:3px
-    style A2 fill:#2563EB,stroke:#60A5FA,color:#fff
-    style B2 fill:#2563EB,stroke:#60A5FA,color:#fff
-    style C2 fill:#2563EB,stroke:#60A5FA,color:#fff
+    classDef core fill:#FFB4A8,stroke:#F2705E,color:#0B3C49,stroke-width:3px
+    style A2 fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
+    style B2 fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
+    style C2 fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -139,7 +139,7 @@ flowchart LR
 <div align="center">
   <img src="assets/orbit.svg" width="80%" alt="skills orbit" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,pytorch,tensorflow,sklearn,opencv,fastapi,azure,git,github,figma,rust&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,pytorch,tensorflow,sklearn,opencv,fastapi,azure,supabase,ts,git,github,figma,rust&theme=light" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -147,28 +147,24 @@ flowchart LR
 <img src="assets/h-proof.svg" height="56" alt="proof of work" />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi-070906&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=3B82F6&text_color=8b949e&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-070906&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=8b949e" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi-070906&show_icons=true&hide_border=true&bg_color=FFF6E5&title_color=0E7490&icon_color=F2705E&text_color=0B3C49&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-070906&layout=compact&hide_border=true&bg_color=FFF6E5&title_color=0E7490&text_color=0B3C49" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=khushi-070906&hide_border=true&background=0d1117&stroke=8b5cf6&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7&sideLabels=8b949e&dates=6b7280&currStreakNum=e6edf3&sideNums=e6edf3" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=khushi-070906&hide_border=true&background=FFF6E5&stroke=0E9AA7&ring=F2705E&fire=FBBF24&currStreakLabel=0E7490&sideLabels=0B3C49&dates=64748b&currStreakNum=0B3C49&sideNums=0B3C49" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushi-070906/khushi-070906/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushi-070906/khushi-070906/output/github-snake.svg" />
-    <img alt="snake eating my contributions" width="100%" src="https://raw.githubusercontent.com/khushi-070906/khushi-070906/output/github-snake-dark.svg" />
-  </picture>
+  <img width="100%" src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" alt="snake eating my contributions" src="https://raw.githubusercontent.com/khushi-070906/khushi-070906/output/snake-ocean.svg" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -184,7 +180,7 @@ flowchart LR
 
 <div align="center">
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Now+go+build+something." alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=0E9AA7&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Now+go+build+something." alt="footer" />
 </div>
 
-<img src="assets/banner.svg" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
