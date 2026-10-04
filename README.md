@@ -1,10 +1,10 @@
 <!-- ═══════════════════════ BANNER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:3B82F6&height=220&section=header&text=KHUSHI%20MITTAL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20in%20the%20making%20%C2%B7%20Researcher%20%C2%B7%20Open-Source%20Contributor&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:3B82F6&height=220&section=header&text=Khushi%20Mittal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20ML%20Engineer%20in%20the%20making&descSize=18&descAlignY=55" alt="Khushi Mittal" />
 
 <!-- ═══════════════════════ TYPING INTRO ═══════════════════════ -->
 <div align="center">
   <a href="https://github.com/khushi-070906">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+build+AI+that+helps+people.;Computer+Vision+%C2%B7+RAG+%C2%B7+Agentic+AI;Published+researcher+%E2%80%94+RL+%26+API+gateways;Open-source+contributor+%E2%80%94+kornia-rs;Patent-pending+assistive+tech+for+the+visually+impaired." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=800&height=40&lines=I+build+AI+that+helps+people.;Computer+Vision+%7C+RAG+%7C+Agentic+AI;Published+researcher+in+RL;Open-source+contributor+to+kornia-rs;Patent-pending+assistive+tech." alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,6 @@
   <a href="mailto:khushimittal070906@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20hi-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=khushi-070906&style=flat-square&color=8B5CF6&labelColor=161b22&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
@@ -26,8 +25,6 @@
 ---
 
 ## 👋 The short version
-
-<div align="center">
 
 ```python
 class Khushi:
@@ -49,8 +46,6 @@ class Khushi:
     def motto(self):
         return "Build things that matter. Ship them."
 ```
-
-</div>
 
 ---
 
@@ -121,12 +116,6 @@ Formalized API gateway routing under autoscaling as a non-stationary, per-arm wa
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=khushi-070906&hide_border=true&background=0d1117&stroke=8b5cf6&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7&sideLabels=8b949e&dates=6b7280&currStreakNum=e6edf3&sideNums=e6edf3" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=khushi-070906&hide_border=true&bg_color=0d1117&color=A855F7&line=3B82F6&point=C084FC&area=true&area_color=8B5CF6" />
 </div>
 
 <br/>
