@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 40" width="100%">
+<rect width="1000" height="40" fill="#0d1117"/><rect width="1000" height="1" fill="#8B5CF6"/><rect y="39" width="1000" height="1" fill="#8B5CF6"/>
+<g><text x="0" y="26" font-family="JetBrains Mono,Consolas,monospace" font-weight="700" font-size="16" fill="#C084FC" textLength="1900" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PYTHON  //  PYTORCH  //  TENSORFLOW  //  LANGCHAIN  //  LANGGRAPH  //  RAG  //  MULTI-AGENT  //  WHISPER  //  FASTAPI  //  MLFLOW  //  AIRFLOW  //  AZURE AI  //  RUST  //  OPENCV  //  RL  //  CGAR  //  </text>
+<text x="1900" y="26" font-family="JetBrains Mono,Consolas,monospace" font-weight="700" font-size="16" fill="#60A5FA" textLength="1900" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PYTHON  //  PYTORCH  //  TENSORFLOW  //  LANGCHAIN  //  LANGGRAPH  //  RAG  //  MULTI-AGENT  //  WHISPER  //  FASTAPI  //  MLFLOW  //  AIRFLOW  //  AZURE AI  //  RUST  //  OPENCV  //  RL  //  CGAR  //  </text>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1900 0" dur="30s" repeatCount="indefinite"/></g>
+</svg>

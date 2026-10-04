@@ -2,4 +2,5 @@
 <defs><linearGradient id="g"><stop offset="0" stop-color="#8E2DE2" stop-opacity="0"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></linearGradient></defs>
 <rect x="0" y="9" width="800" height="2" fill="url(#g)"/>
 <circle cy="10" r="4" fill="#C084FC"><animate attributeName="cx" values="0;800" dur="3.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.5s" repeatCount="indefinite"/></circle>
+<circle cy="10" r="4" fill="#60A5FA"><animate attributeName="cx" values="800;0" dur="3.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.5s" repeatCount="indefinite"/></circle>
 </svg>
