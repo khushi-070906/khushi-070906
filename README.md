@@ -1,124 +1,164 @@
-<h1 align="center">Hi 👋, I'm Khushi Mittal</h1>
-<h3 align="center">Building ML systems, robotics simulations, and agentic AI pipelines</h3>
+<!-- ═══════════════════════ BANNER ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:3B82F6&height=220&section=header&text=KHUSHI%20MITTAL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20in%20the%20making%20%C2%B7%20Researcher%20%C2%B7%20Open-Source%20Contributor&descSize=18&descAlignY=55" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+GTBIT;Open-Source+Contributor+%40+kornia-rs;Published+Author+on+SSRN;RL+%2B+Multi-Agent+Systems+%2B+Computer+Vision" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/khushi-mittal-7294a2334">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- ═══════════════════════ TYPING INTRO ═══════════════════════ -->
+<div align="center">
+  <a href="https://github.com/khushi-070906">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+build+AI+that+helps+people.;Computer+Vision+%C2%B7+RAG+%C2%B7+Agentic+AI;Published+researcher+%E2%80%94+RL+%26+API+gateways;Open-source+contributor+%E2%80%94+kornia-rs;Patent-pending+assistive+tech+for+the+visually+impaired." alt="Typing SVG" />
   </a>
-  <a href="mailto:khushimittal070906@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushi-mittal-7294a2334">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" />
   </a>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7206758">
-    <img src="https://img.shields.io/badge/SSRN-000000?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/SSRN-Published%20Paper-8B5CF6?style=flat-square&logoColor=white&labelColor=161b22" />
   </a>
-  <a href="https://github.com/khushi-070906">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:khushimittal070906@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hi-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=khushi-070906&style=flat-square&color=8B5CF6&labelColor=161b22&label=PROFILE+VIEWS" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🎓 B.Tech in Information Technology, **GTBIT (GGSIPU)**, New Delhi — CGPA **8.75/10**
-- 🧩 Open-source contributor to **kornia-rs** and **IEEE Summer of Code**
-- 📄 Published author on SSRN — confidence-gated RL for API gateway routing
-- 🌱 Currently exploring agentic AI systems, RL for infrastructure, and accessible assistive tech
-- 💬 Ask me about: reinforcement learning, multi-agent pipelines, computer vision, or robotics control
-
----
-
-### 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,tensorflow,fastapi,azure,git,github,figma&perline=6" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
----
-
-### 🛠️ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🦯 V2T-Graph**
 <br/>
-Monocular camera → real-time tactile/audio navigation for visually impaired users. YOLOv10 + Depth Anything V2, fused into an adaptive scene graph that prunes objects by proximity and relevance for low-latency cues.
-
-`PyTorch` `YOLOv10` `Depth Anything V2`
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 Speak Local, Understand Global**
-<br/>
-Fully offline, presenter-hosted live speech translation and captioning broadcast over a self-hosted WiFi hotspot — real-time captions for deaf/hard-of-hearing users, spoken translation for blind/visually impaired users.
-
-`FastAPI` `faster-whisper` `NLLB-200` `WebSockets`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📊 CGAR — Confidence-Gated Adaptive Routing** *(Published, SSRN)*
-<br/>
-RL framework treating API gateway routing under autoscaling as a non-stationary, per-arm warm-start bandit problem — 81.6–91.9% regret reduction across 7 baselines and 20 seeds.
-
-`Reinforcement Learning` `Bandits`
-
-</td>
-<td width="50%" valign="top">
-
-**🔥 AGNI**
-<br/>
-Confidence-gated multi-agent forecasting + RAG pipeline for heatwave disaster preparedness, backtested against historical IMD records.
-
-`Multi-Agent Systems` `RAG`
-
-</td>
-</tr>
-</table>
 
 ---
 
-### 📈 Snapshot
+## 👋 The short version
 
-| | |
-|---|---|
-| 🎓 **CGPA** | 8.75/10 |
-| 📄 **Publications** | 1 (SSRN) |
-| 🧩 **Open Source** | kornia-rs, IEEE SoC |
-| 🏆 **Wins** | Ctrl+Alt+Design (IEEE DTU & GTBIT) |
-| 📜 **Certifications** | ICTRD Data Science Associate |
+<div align="center">
 
+```python
+class Khushi:
+    def __init__(self):
+        self.name      = "Khushi Mittal"
+        self.location  = "New Delhi, India"
+        self.studying  = "B.Tech IT @ GTBIT, GGSIPU  |  CGPA 8.75/10"
+        self.focus     = ["Computer Vision", "Agentic AI & RAG", "Reinforcement Learning", "MLOps"]
+        self.currently = [
+            "DSA & AI Research Intern @ Zipbolt Innovations",
+            "Data Analyst Intern @ AICTE",
+            "Contributing to kornia-rs",
+        ]
+        self.achievements = [
+            "Rank 1 (Perfect 100) - ICTRD Data Science Program",
+            "Winner - Ctrl+Alt+Design, IEEE DTU x IEEE GTBIT",
+        ]
+
+    def motto(self):
+        return "Build things that matter. Ship them."
+```
+
+</div>
 
 ---
 
-### 🏆 Achievements
+## 🚀 What I'm building
 
-- 🥇 Rank 1 (Perfect 100 Score) — ICTRD Data Science Program (2025)
-- 📜 ICTRD Certified Data Science Associate (2025)
-- 🏆 Ctrl+Alt+Design Winner — IEEE DTU & IEEE GTBIT (2025)
+| Project | What it is |
+| :------ | :--------- |
+| **[V2T-Graph / VisionSense](https://github.com/khushi-070906)** *(Patent Pending)* | Monocular camera → navigation-aware scene graph for visually impaired assistance, using YOLOv10 + Depth Anything V2 + heading-based pruning. Integrated into **SmartSight**, an AI + IIoT platform with ESP32 sensors, bone-conduction audio, multilingual voice, OCR and SOS alerts |
+| **DwaniLive** | Fully offline live speech translation and accessible captioning over a self-hosted WiFi hotspot (faster-whisper, NLLB-200, FastAPI, WebSockets). Accepted into the **Sarvam**, **GitLab** and **MongoDB** Startup Programs |
+| **[MLflow Drift Plugin](https://github.com/khushi-070906)** | MLflow/Airflow plugin for model & feature drift detection, with a compliance layer mapped to RBI's draft 2026 Model Risk guidance and DPDP Act Sec. 8(3)-(4). 31 passing tests |
+| **EV Theft Detection** | Raspberry Pi + camera + onboard sensors to record theft attempts and detect unauthorized movement or tampering |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushi-070906&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
-</p>
+## 📄 Research
 
-<p align="center"><i>Thanks for stopping by — always open to collaborating on ML, robotics, or accessible tech projects!</i></p>
+**CGAR — Confidence-Gated Adaptive Routing for RL-Based API Gateways** · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7206758)
+
+Formalized API gateway routing under autoscaling as a non-stationary, per-arm warm-start bandit problem, and designed a confidence-gated RL framework achieving **81.6–91.9% regret reduction** across 7 baselines and 20 seeds.
+
+---
+
+## 🦀 Open source
+
+**[kornia-rs](https://github.com/kornia/kornia-rs)**
+- Fixed a doctest-discovery gap where docstrings were silently skipped during recursive test collection
+- Resolved an aliasing UB bug in the fused ColorJitter path
+- Replaced panics with proper Python exceptions for malformed inputs
+
+---
+
+## 🛠️ Arsenal
+
+<div align="center">
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,pytorch,tensorflow,sklearn&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=opencv,fastapi,azure,git,github,figma,rust&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-8B5CF6?style=flat-square&logo=langchain&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-8B5CF6?style=flat-square&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/HuggingFace-8B5CF6?style=flat-square&logo=huggingface&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/BERT-8B5CF6?style=flat-square&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Whisper%20AI-8B5CF6?style=flat-square&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Keras-8B5CF6?style=flat-square&logo=keras&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Streamlit-8B5CF6?style=flat-square&logo=streamlit&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Azure%20AI-8B5CF6?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/MLflow-8B5CF6?style=flat-square&logo=mlflow&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Airflow-8B5CF6?style=flat-square&logo=apacheairflow&logoColor=white&labelColor=161b22" />
+
+</div>
+
+<br/>
+
+---
+
+## 📊 Proof of work
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi-070906&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=3B82F6&text_color=8b949e&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-070906&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=8b949e" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=khushi-070906&hide_border=true&background=0d1117&stroke=8b5cf6&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7&sideLabels=8b949e&dates=6b7280&currStreakNum=e6edf3&sideNums=e6edf3" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=khushi-070906&hide_border=true&bg_color=0d1117&color=A855F7&line=3B82F6&point=C084FC&area=true&area_color=8B5CF6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushi-070906/khushi-070906/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushi-070906/khushi-070906/output/github-snake.svg" />
+    <img alt="snake eating my contributions" width="100%" src="https://raw.githubusercontent.com/khushi-070906/khushi-070906/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **Rank 1, Perfect 100 Score** — ICTRD Data Science Program (2025)
+- 🎨 **Winner** — Ctrl+Alt+Design, IEEE DTU & IEEE GTBIT (2025), for an AI-driven product concept
+- 🚀 **Accepted** into the Sarvam, GitLab and MongoDB Startup Programs (DwaniLive)
+- 📜 **Patent pending** — V2T-Graph
+
+---
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Now+go+build+something." alt="footer typing" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:4A00E0,100:8E2DE2&height=140&section=footer" />
