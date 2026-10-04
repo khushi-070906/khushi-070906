@@ -2,115 +2,63 @@
 
 <div align="center">
   <a href="https://github.com/khushi-070906">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=0E9AA7&center=true&vCenter=true&width=800&height=40&lines=I+build+AI+that+helps+people.;Computer+Vision+%7C+RAG+%7C+Agentic+AI;Published+researcher+in+RL;Built+the+backend+for+RAVS;Open-source+contributor+to+kornia-rs;Accepted%3A+Sarvam+%7C+GitLab+%7C+MongoDB" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=F97316&center=true&vCenter=true&width=800&height=40&lines=I+build+AI+that+helps+people.;Computer+Vision+%7C+RAG+%7C+Agentic+AI;Published+researcher+in+RL;Built+the+backend+for+RAVS;Open-source+contributor+to+kornia-rs;Accepted%3A+Sarvam+%7C+GitLab+%7C+MongoDB" alt="typing" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khushi-mittal-7294a2334"><img src="https://img.shields.io/badge/LinkedIn-Connect-0E9AA7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B3C49" /></a>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7206758"><img src="https://img.shields.io/badge/SSRN-Published-F2705E?style=for-the-badge&labelColor=0B3C49" /></a>
-  <a href="mailto:khushimittal070906@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0E9AA7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B3C49" /></a>
+  <a href="https://www.linkedin.com/in/khushi-mittal-7294a2334"><img src="https://img.shields.io/badge/LinkedIn-Connect-A3E635?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=334155" /></a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7206758"><img src="https://img.shields.io/badge/SSRN-Published-FB923C?style=for-the-badge&labelColor=334155" /></a>
+  <a href="mailto:khushimittal070906@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=334155" /></a>
 </p>
 
 <img src="assets/ticker.svg" width="100%" alt="" />
 
-<img src="assets/h-short.svg" height="56" alt="whoami" />
+<img src="assets/h-about.svg" height="56" alt="about" />
 
-<div align="center">
-  <img src="assets/terminal.svg" width="85%" alt="terminal intro" />
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<img src="assets/h-flows.svg" height="56" alt="projects flowchart" />
-
-### 🧭 The whole map
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#CFF3EE','primaryTextColor':'#0B3C49','primaryBorderColor':'#0E9AA7','lineColor':'#0E9AA7','secondaryColor':'#FFE8C2','tertiaryColor':'#FFF6E5','fontFamily':'monospace'}}}%%
-flowchart TB
-    K(("Khushi<br/>Mittal")):::core
-    K --> R["Research"]
-    K --> P["Products"]
-    K --> O["Open Source"]
-    K --> I["Internships"]
-    R --> R1["CGAR - SSRN"]
-    P --> P1["DwaniLive"]
-    P --> P2["RAVS backend"]
-    O --> O1["kornia-rs"]
-    I --> I1["Zipbolt Innovations"]
-    I --> I2["AICTE"]
-    classDef core fill:#FFB4A8,stroke:#F2705E,color:#0B3C49,stroke-width:3px
-    classDef leaf fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
-    class R1,P1,P2,O1,I1,I2 leaf
-```
-
-### 🎓 RAVS (Research Connect): I built the backend
-A role-based **research attendance and verification** app. Students authenticate, check in and out of lab sessions and submit work evidence. Faculty review those sessions before approved hours count toward attendance reports. Admins manage users and lab configuration. Also covers presence checks, events, leave, certificates and a live roster. **Supabase** provides auth, database and storage.
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#CFF3EE','primaryTextColor':'#0B3C49','primaryBorderColor':'#0E9AA7','lineColor':'#0E9AA7','secondaryColor':'#FFE8C2','tertiaryColor':'#FFF6E5','fontFamily':'monospace'}}}%%
-flowchart TB
-    subgraph STU["Student"]
-        direction LR
-        s1["Sign in"] --> s2["Check in<br/>with lab code"] --> s3["Presence checks"] --> s4["Log work evidence<br/>+ session timer"] --> s5["Check out"]
-    end
-    subgraph FAC["Faculty"]
-        direction LR
-        f1["Review sessions<br/>+ time corrections"] --> f2["Approve hours"] --> f3["Attendance reports<br/>+ research summaries"]
-    end
-    subgraph OPS["Lab operations"]
-        direction LR
-        o1["Live roster"]
-        o2["Events + calendar"]
-        o3["Leave requests"]
-        o4["Certificates +<br/>verification codes"]
-    end
-    subgraph ADM["Head admin"]
-        a1["Manage users + labs"]
-    end
-    STU --> DB
-    FAC --> DB
-    OPS --> DB
-    ADM --> DB
-    DB[("Supabase<br/>auth + database + storage")]
-    style DB fill:#FFB4A8,stroke:#F2705E,color:#0B3C49,stroke-width:2px
-    style f2 fill:#FFE8C2,stroke:#F2705E,color:#0B3C49
-```
-
-### 🗣️ DwaniLive: offline live translation + accessible captions
-Runs on the presenter's device with **zero internet dependency**. Accepted into the **Sarvam**, **GitLab** and **MongoDB** Startup Programs.
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#CFF3EE','primaryTextColor':'#0B3C49','primaryBorderColor':'#0E9AA7','lineColor':'#0E9AA7','secondaryColor':'#FFE8C2','tertiaryColor':'#FFF6E5','fontFamily':'monospace'}}}%%
-flowchart LR
-    A(["Presenter speaks"]) --> B["faster-whisper<br/>speech to text"]
-    B --> C["NLLB-200<br/>translation"]
-    B --> D["FastAPI + WebSockets<br/>asyncio broadcast"]
-    C --> D
-    D --> E{{"Self-hosted WiFi hotspot<br/>no internet needed"}}
-    E --> F["High-contrast live captions<br/>deaf / hard-of-hearing"]
-    E --> G["Live spoken translation<br/>blind / visually impaired"]
-    style A fill:#FFB4A8,stroke:#F2705E,color:#0B3C49
-    style E fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
-```
+- 🎓 B.Tech Information Technology at GTBIT (GGSIPU), New Delhi. CGPA 8.75/10
+- 💼 DSA & AI research intern at **Zipbolt Innovations**, data analyst intern at **AICTE**
+- 🦀 Contributing to **kornia-rs**
+- 🔭 Into computer vision, agentic AI & RAG, and reinforcement learning
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-research.svg" height="56" alt="research" />
+<img src="assets/h-projects.svg" height="56" alt="projects" />
 
-**CGAR: Confidence-Gated Adaptive Routing for RL-Based API Gateways** · [📄 SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7206758)
+### 🎓 RAVS (Research Connect)
+Role-based research attendance and verification app. **I built the backend** on Supabase (auth, database, storage). Students check in to lab sessions and submit work evidence, faculty review and approve hours, and approved hours feed attendance reports.
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#CFF3EE','primaryTextColor':'#0B3C49','primaryBorderColor':'#0E9AA7','lineColor':'#0E9AA7','secondaryColor':'#FFE8C2','tertiaryColor':'#FFF6E5','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#334155','primaryTextColor':'#F8FAFC','primaryBorderColor':'#A3E635','lineColor':'#22D3EE','fontFamily':'monospace'}}}%%
 flowchart LR
-    A["API requests"] --> B["Gateway routing<br/>under autoscaling"]
-    B --> C["Non-stationary<br/>per-arm warm-start bandit"]
-    C --> D{{"Confidence gate<br/>(CGAR)"}}
-    D --> E["Routing decision"]
-    E --> F["81.6 to 91.9% regret reduction<br/>7 baselines, 20 seeds"]
-    style D fill:#FFB4A8,stroke:#F2705E,color:#0B3C49
-    style F fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
+    A(["Student<br/>checks in"]) --> B["Work evidence<br/>submitted"] --> C[("Supabase<br/>backend")] --> D["Faculty<br/>review"] --> E["Approved hours<br/>attendance reports"]
+    linkStyle default stroke:#22D3EE,stroke-width:2px
+    style A fill:#FB923C,stroke:#FB923C,color:#1E293B
+    style E fill:#A3E635,stroke:#A3E635,color:#1E293B
+```
+
+### 🗣️ DwaniLive
+Offline live speech translation and accessible captioning, running on the presenter's device with no internet. Accepted into the **Sarvam**, **GitLab** and **MongoDB** Startup Programs.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#334155','primaryTextColor':'#F8FAFC','primaryBorderColor':'#A3E635','lineColor':'#22D3EE','fontFamily':'monospace'}}}%%
+flowchart LR
+    A(["Speech"]) --> B["Whisper<br/>speech to text"] --> C["NLLB-200<br/>translation"] --> D["Offline WiFi<br/>hotspot"] --> E["Live captions +<br/>spoken translation"]
+    linkStyle default stroke:#22D3EE,stroke-width:2px
+    style A fill:#FB923C,stroke:#FB923C,color:#1E293B
+    style E fill:#A3E635,stroke:#A3E635,color:#1E293B
+```
+
+### 📄 CGAR: Confidence-Gated Adaptive Routing ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7206758))
+Published research on RL-based API gateway routing under autoscaling.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#334155','primaryTextColor':'#F8FAFC','primaryBorderColor':'#A3E635','lineColor':'#22D3EE','fontFamily':'monospace'}}}%%
+flowchart LR
+    A(["API requests"]) --> B["RL router<br/>(bandit)"] --> C["Confidence<br/>gate"] --> D["Routing<br/>decision"] --> E["81.6 to 91.9%<br/>less regret"]
+    linkStyle default stroke:#22D3EE,stroke-width:2px
+    style A fill:#FB923C,stroke:#FB923C,color:#1E293B
+    style E fill:#A3E635,stroke:#A3E635,color:#1E293B
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -119,40 +67,41 @@ flowchart LR
 
 **[kornia-rs](https://github.com/kornia/kornia-rs)**: computer vision in Rust, with Python bindings
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#CFF3EE','primaryTextColor':'#0B3C49','primaryBorderColor':'#0E9AA7','lineColor':'#0E9AA7','secondaryColor':'#FFE8C2','tertiaryColor':'#FFF6E5','fontFamily':'monospace'}}}%%
-flowchart LR
-    K(("kornia-rs")):::core
-    K --> A["Doctest discovery gap<br/>docstrings silently skipped"] --> A2["Fixed: recursive<br/>test collection"]
-    K --> B["Aliasing UB in<br/>fused ColorJitter path"] --> B2["Resolved"]
-    K --> C["Panics on<br/>malformed inputs"] --> C2["Proper Python<br/>exceptions"]
-    classDef core fill:#FFB4A8,stroke:#F2705E,color:#0B3C49,stroke-width:3px
-    style A2 fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
-    style B2 fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
-    style C2 fill:#BAE6FD,stroke:#0369A1,color:#0B3C49
-```
+- 🐛 Fixed a doctest-discovery gap where docstrings were silently skipped in recursive test collection
+- 🧨 Resolved an aliasing UB bug in the fused `ColorJitter` path
+- 🛡️ Replaced panics with proper Python exceptions for malformed inputs
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-arsenal.svg" height="56" alt="arsenal" />
+<img src="assets/h-skills.svg" height="56" alt="skills" />
 
 <div align="center">
-  <img src="assets/orbit.svg" width="80%" alt="skills orbit" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,pytorch,tensorflow,sklearn,opencv,fastapi,azure,supabase,ts,git,github,figma,rust&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,pytorch,tensorflow,sklearn,opencv,fastapi,azure,supabase,ts,git,github,figma,rust&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/LangChain-334155?style=flat-square&logo=langchain&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/LangGraph-334155?style=flat-square&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/RAG-334155?style=flat-square&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/Multi--Agent-334155?style=flat-square&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/HuggingFace-334155?style=flat-square&logo=huggingface&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/BERT-334155?style=flat-square&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/Whisper-334155?style=flat-square&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/Keras-334155?style=flat-square&logo=keras&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/Streamlit-334155?style=flat-square&logo=streamlit&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/MLflow-334155?style=flat-square&logo=mlflow&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/Airflow-334155?style=flat-square&logo=apacheairflow&logoColor=A3E635" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-proof.svg" height="56" alt="proof of work" />
+<img src="assets/h-stats.svg" height="56" alt="stats" />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi-070906&show_icons=true&hide_border=true&bg_color=FFF6E5&title_color=0E7490&icon_color=F2705E&text_color=0B3C49&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-070906&layout=compact&hide_border=true&bg_color=FFF6E5&title_color=0E7490&text_color=0B3C49" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi-070906&show_icons=true&hide_border=true&bg_color=334155&title_color=A3E635&icon_color=22D3EE&text_color=E2E8F0&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-070906&layout=compact&hide_border=true&bg_color=334155&title_color=A3E635&text_color=E2E8F0" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=khushi-070906&hide_border=true&background=FFF6E5&stroke=0E9AA7&ring=F2705E&fire=FBBF24&currStreakLabel=0E7490&sideLabels=0B3C49&dates=64748b&currStreakNum=0B3C49&sideNums=0B3C49" />
+  <img src="https://streak-stats.demolab.com?user=khushi-070906&hide_border=true&background=334155&stroke=A3E635&ring=FB923C&fire=FB923C&currStreakLabel=A3E635&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </div>
 
 <br/>
@@ -164,7 +113,7 @@ flowchart LR
 <br/>
 
 <div align="center">
-  <img width="100%" alt="snake eating my contributions" src="https://raw.githubusercontent.com/khushi-070906/khushi-070906/output/snake-ocean.svg" />
+  <img width="100%" alt="snake eating my contributions" src="https://raw.githubusercontent.com/khushi-070906/khushi-070906/output/snake-crazy.svg" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -177,10 +126,5 @@ flowchart LR
 | 🎨 **Winner** | Ctrl+Alt+Design, IEEE DTU x IEEE GTBIT (2025) |
 | 🚀 **Accepted** | Sarvam, GitLab and MongoDB Startup Programs |
 | 📖 **Published** | CGAR on SSRN |
-
-<div align="center">
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=0E9AA7&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Now+go+build+something." alt="footer" />
-</div>
 
 <img src="assets/footer.svg" width="100%" alt="" />

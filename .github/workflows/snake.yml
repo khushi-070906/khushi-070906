@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-ocean.svg?color_snake=#f2705e&color_dots=#efe3c8,#a7e8de,#5ccfc2,#14a89b,#0b6e75
+            dist/snake-crazy.svg?color_snake=#fb923c&color_dots=#475569,#3f6212,#4d7c0f,#84cc16,#bef264
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
